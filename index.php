@@ -58,6 +58,11 @@
 			<div class="row">
 				<input type="submit" value="Save!" name="save">
 			</div>
+		
+			<div class="row">
+				<input type="delete" value="Delete!" name="delete">
+			</div>
+		
 			</form>
 		</div>
 	</div>
