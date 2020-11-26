@@ -61,7 +61,7 @@
 			</div>
 		
 			<div class="row">
-				<input type="delete" value="Delete!" name="delete">
+				<input type="button" value="Delete!" name="delete">
 			</div>
 		
 			</form>
