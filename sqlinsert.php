@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="veiwport" content="width=device-width, initial-scale=1">
+		<title>Thank you!</title>
+	</head>
+	
+<body>
+	
+	<h1>Welcome</h1>
+
 <?php
 	$fname=$_Post['lastname'];
 	$lname=$_Post['firstname'];
@@ -22,3 +33,6 @@
 			mysqli_query($conn, $sql);
 	}
 ?>
+
+</body>
+</html>
