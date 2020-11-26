@@ -5,6 +5,7 @@
 	$address=$_Post['address'];
 	$password=$_Post['password'];
 	$button=$_Post['save'];
+	$delete=$_Post['delete'];
 	
 	if($button=='Save!'){
 		$dbhost='localhost';
