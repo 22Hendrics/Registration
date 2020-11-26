@@ -31,6 +31,20 @@ lbel{
 input[type=submit]:hover{
 	background-color:#45a049
 }
+1nput[type=delete] {
+	background-color: #4caf50;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	float: right;
+	margin-top: 6px;
+}
+
+input[type=delete]:hover{
+	background-color:#45a049
+}
 .container{
 	border-radius: 5px;
 	background-color: #e4e0e0;
