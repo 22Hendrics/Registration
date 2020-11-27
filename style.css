@@ -75,7 +75,7 @@ input[type=delete]:hover{
 		margin-top: 0;
 	}
 }
-.h2 {
+h2 {
 	text-align: center;
 	color: white;
 	background-color: blue;
