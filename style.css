@@ -29,7 +29,7 @@ lbel{
 }
 
 input[type=submit]:hover{
-	background-color:#45a049
+	background-color:blue;
 }
 1nput[type=delete] {
 	background-color: #4caf50;
@@ -79,4 +79,5 @@ input[type=delete]:hover{
 	text-align: center;
 	color: white;
 	background-color: blue;
+	font-size: 40px;
 }
