@@ -9,7 +9,7 @@
 
 <body>
 
-<h2> REGISTRATION FORM-ADD USER</h2>
+<h2 id="title"> REGISTRATION FORM-ADD USER</h2>
 <p>Use this to form to register a new user in the system.</p>
 
 <div class"container">
