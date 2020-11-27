@@ -5,8 +5,8 @@
 input[type=text], [type=password], select, textarea{
 	width: 100%;
 	padding: 12px;
-	border: 1px solid #ccc;
-	border-radius: 4px;
+	border: 2px solid #ccc;
+	border-radius: 3px;
 	resize: vertical;
 }
 
@@ -43,7 +43,7 @@ input[type=submit]:hover{
 }
 
 input[type=delete]:hover{
-	background-color:#45a049
+	background-color:blue;
 }
 .container{
 	border-radius: 5px;
