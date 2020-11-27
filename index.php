@@ -10,7 +10,7 @@
 <body>
 
 
-<h2 style="text-align: center; color: white; background-color: blue;"> REGISTRATION FORM-ADD USER</h2>
+<h2 style="text-align: center; color: white; background-color: blue; font-family: Arial;"> REGISTRATION FORM-ADD USER</h2>
 <p>Use this to form to register a new user in the system.</p>
 
 <div class"container">
