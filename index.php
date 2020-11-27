@@ -3,7 +3,7 @@
 
 <head>
 <meta name="veiwport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 	<title>User Registration</title>
 </head>
 
