@@ -75,3 +75,8 @@ input[type=delete]:hover{
 		margin-top: 0;
 	}
 }
+#title {
+	text-align: center;
+	color: white;
+	background-color: blue;
+}
