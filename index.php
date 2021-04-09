@@ -19,7 +19,7 @@
   <div class="p-2 bd-highlight">Flex tape</div>
 </div>
 
-<rssapp-wall id="YA44a2giQTA6D3BR"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>	
+<rssapp-wall id="xcAxotnMe6C3jri9"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
